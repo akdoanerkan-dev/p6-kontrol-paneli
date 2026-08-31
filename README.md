@@ -5,7 +5,7 @@ A free dashboard for Primavera P6 schedules. Upload an `.xer` export and get the
 earned value picture, critical path view, lookahead and a DCMA 14-point quality
 check in one pass. No install, no account, nothing stored.
 
-**Live app:** _add your Streamlit URL here_
+**Live app:** [https://p6-projectcontroldashboard.streamlit.app/](https://p6-projectcontroldashboard.streamlit.app/)
 
 ![Overview tab](docs/overview.png)
 
